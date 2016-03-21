@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Integrative Bodybuilding - Home of Fortitude Training]]></title>
+        <description><![CDATA[Integrative Bodybuilding - Home of Fortitude Training]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 21:46:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dr. Scott W. Stevenson, PhD, LAc is an applied exercise physiologist (PhD from University of Georgia, ACSM and NSCA-certified), licensed acupuncturist (State of Florida) and competitive bodybuilder (four overall titles, including the 2009 NPC Mr. Arizona, and three top 5 national level showings).   Scott has over thirty years in the gym and two decades of experience personal training and coaching online.
+
+Scott believes in keeping an open “beginner’s minded” approach to finding what works, while blending his experience, Western science and Eastern medicine. Scott coaches from the perspective of educator, hoping his clients will eventually move beyond his guidance.  He’s a former college professor (Cal Poly Pomona), academic dean and instructor (ASAOM), columnist for EliteFTS™, and adjunct professor at University of Tampa.  Scott has published in the peer-reviewed scientific literature and his lay bodybuilding articles have appeared in Musclemag and Flex magazine.  
+</p>]]></description>
+            <link>undefineddr-scott-w-stevenson-phd-lac-is-an-applied-exercise-phys/index.html</link>
+            <guid isPermaLink="false">134e083b-5e49-4004-8500-425204599c71</guid>
+            <pubDate>Mon, 21 Mar 2016 21:46:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
